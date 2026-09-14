@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você utilizar este repositório, cite-o usando os metadados abaixo."
+title: "SDK móvel para detecção de coação e fraudes em transações financeiras: experimento reproduzível"
+type: software
+authors:
+  - family-names: "Lemos"
+    given-names: "Lucas Barros"
+date-released: "2026-09-14"
+version: "1.0.0"
+license: MIT
