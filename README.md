@@ -1,4 +1,4 @@
-# SDK móvel para detecção de coação e fraudes - experimento reproduzível
+# Motor híbrido para estimativa de risco em aplicações financeiras - experimento reproduzível
 
 Repositório de apoio ao Trabalho de Conclusão de Curso do MBA em Engenharia de Software
 (USP/Esalq), contendo o código, o conjunto de dados sintético e os artefatos necessários para
